@@ -1,30 +1,36 @@
-# Hi 👋, I'm MRGNSs11 (Ömer)
-### 💻 Computer Science Student | Flutter Developer Candidate
+# Selam, ben Ömer! 👋
 
-I am a Computer Science student based in Turkey, passionate about building mobile applications. Currently, I am focusing on mastering **Flutter** and **Dart** to create high-quality, visual, and applied solutions.
-
----
-
-### 🛠 Languages & Tools
-- **Languages:** ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-- **Mobile Development:** ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-- **Database:** ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-- **Frameworks/Other:** ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+### 👨‍💻 Bilgisayar Bilimleri Öğrencisi | Flutter Geliştirici Adayı
+Türkiye'de yaşıyorum ve şu an üniversite eğitimime devam ediyorum. Mobil uygulama geliştirme dünyasına, özellikle **Flutter** ve **Dart** teknolojilerine odaklanmış durumdayım.
 
 ---
 
-### 📚 Currently Learning
-- Advanced Mobile Application Development with **Flutter**.
-- Exploring **Machine Learning** and **Operating Systems** as part of my coursework.
+### 🚀 Yeteneklerim & Araçlar
+Aşağıdaki teknolojilerle projeler geliştiriyorum:
+
+| Alan | Teknolojiler |
+| :--- | :--- |
+| **Diller** | ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **Mobil** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) |
+| **Araçlar** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white) |
 
 ---
 
-### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MRGNSs11&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MRGNSs11&layout=compact&theme=tokyonight)
+### 📚 Şu An Neler Yapıyorum?
+Şu an akademik dönemimde **Makine Öğrenmesi**, **Oyun Geliştirme**, **İşletim Sistemleri** ve **Yazılım Geliştirme** gibi 10 farklı ders üzerine çalışarak kendimi geliştiriyorum. 
+Aynı zamanda mezuniyet öncesi profesyonel staj imkanlarını değerlendiriyorum.
 
 ---
 
-### 📫 Connect with me:
-- 📧 Email: omeromergunesgunes@gmail.com
-- 🔗 [LinkedIn](SENİN_LINKEDIN_LINKIN_BURAYA)
+### 📊 GitHub İstatistiklerim
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=MRGNSs11&show_icons=true&theme=tokyonight&hide_border=true" alt="Ömer's GitHub Stats" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRGNSs11&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+</p>
+
+---
+
+### 📫 Bana Ulaşın:
+- 📧 **E-posta:** omeromergunesgunes@gmail.com
+- 💼 **LinkedIn:** www.linkedin.com/in/ömer-güneş-645662299
